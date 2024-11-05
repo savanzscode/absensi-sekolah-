@@ -1,0 +1,12 @@
+[CBT 2.9.2 R1]
+- Penambahan menu wali kelas
+- Penambahan fitur di Status Peserta
+- Penambahan Fitur Ujian Ulang
+- Penambahan Fitur Pelanggaran
+- Perubahan sedikit tampilan
+- Perbaikan di versi sebelumnya
+
+Terima Kasih Kepada Allah SWT.
+
+Salam Admin
+
